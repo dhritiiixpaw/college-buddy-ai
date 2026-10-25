@@ -1,6 +1,9 @@
 # bunny.ai — AI-Powered College Guidance Chatbot
 
 bunny.ai is a web-based chatbot designed to help students explore academic options, career paths, and college-related questions through conversational AI. It uses Flask for the backend and Google's Gemini API to generate responses.
+## 🖼️ Preview
+
+![bunny.ai chatbot interface](screenshots/Screenshot%202026-10-25%20214846.png)
 
 **Repository:** [college-buddy-ai](https://github.com/dhritiiixpaw/college-buddy-ai)
 
